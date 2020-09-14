@@ -1,13 +1,12 @@
 {
-  "name": "pmChatBot",
+  "name": "pmCatBot",
   "description": "Livegram clone",
   "keywords": [
     "telegram",
     "bot",
     "php"
   ],
-  "website": "https://quiec.tech/",
-  "repository": "https://github.com/quiec/pmChatBot",
+  "repository": "https://github.com/reejit/pmChatBot",
   "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
   "env": {
     "BOT_TOKEN": {
