@@ -1,6 +1,5 @@
 {
-    "START": " Hey there! \n You can contact ꧁༒Hell多Øץ⚔༒꧂ using this bot... \n  This bot was made by a legend..!!!! \n Be patient he will reply you soon...."
-	else: !",
+    "START": " Hey there! \n You can contact ꧁༒Hell多Øץ⚔༒꧂ using this bot... \n  This bot was made by a legend..!!!! \n Be patient he will reply you soon.!!!"
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply.*",
     "SENDER": "*Sender:*"
